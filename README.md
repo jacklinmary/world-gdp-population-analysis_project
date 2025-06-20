@@ -16,9 +16,13 @@ control
 🔧 Tools & Icons
 
 📥  Raw data download (Excel, CSV, APIs)	
+
 🧹   SQL cleaning & summarization	
+
 🧮   Excel pivot tables & formulas	
+
 📊   Power BI dashboard visualizations	
+
 📈   Statistical methods & modeling descriptions
 
 
